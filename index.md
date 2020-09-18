@@ -8,6 +8,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 1B Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
