@@ -9,6 +9,7 @@
 
 ---
 [Project 1B Title](/sample_page)
+Arianobserver es un canal de youtube en la que hago y realizo videos sobre reviews tecnológicas
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
