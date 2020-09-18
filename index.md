@@ -15,7 +15,9 @@
 <br><br>
 Arianobserver es un canal de youtube en la que hago y realizo videos sobre reviews tecnológicas
 <a href="youtube.com/adrianobserver">Pincha aquí para ir al canal</a>
+
 ---
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
