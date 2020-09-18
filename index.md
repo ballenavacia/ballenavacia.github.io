@@ -11,6 +11,7 @@
 [Project 1B Title](/sample_page)
 <br><br>
 Arianobserver es un canal de youtube en la que hago y realizo videos sobre reviews tecnológicas
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
