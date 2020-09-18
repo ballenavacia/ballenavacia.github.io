@@ -8,11 +8,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+### En video
+
 [Project 1B Title](/sample_page)
 <br><br>
 Arianobserver es un canal de youtube en la que hago y realizo videos sobre reviews tecnológicas
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<a href="youtube.com/adrianobserver">Pincha aquí para ir al canal</a>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
